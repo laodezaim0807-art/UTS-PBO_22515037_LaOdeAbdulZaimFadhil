@@ -1,0 +1,98 @@
+=== Sistem Manajemen Warung Kendari ===
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Data contoh dimuat: 5 menu dan 3 pelanggan.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Buat pesanan --
+ID pelanggan : Pelanggan: Ahmad Rizky
+Masukkan kode menu satu per satu. Ketik SELESAI untuk menyimpan.
+Kode menu    : Jumlah       :   + 2 Nasi Goreng Spesial ditambahkan.
+Kode menu    : Jumlah       :   + 2 Es Teh Manis ditambahkan.
+Kode menu    : Pesanan berhasil disimpan.
+Kode      : PSN-001
+Pelanggan : Ahmad Rizky (P01)
+Status    : DIPROSES
+  Nasi Goreng Spesial     2 x Rp25.000   = Rp50.000
+  Es Teh Manis            2 x Rp5.000    = Rp10.000
+Subtotal  : Rp60.000
+Pajak 10% : Rp6.000
+Total     : Rp66.000
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Daftar pelanggan --
+P01    | Ahmad Rizky        | 081234567890   | belanja Rp66.000    | Non-member
+P02    | Sari Wulandari     | 082198765432   | belanja Rp0         | Non-member
+P03    | Laode Hasan        | 085311122233   | belanja Rp0         | Non-member
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Restoran          : Warung Kendari (Jl. Mekar No. 7, Kendari)
+Jumlah menu       : 5
+Jumlah pelanggan  : 3
+Jumlah pesanan    : 1 (selesai 0, diproses 1)
+Total pajak       : Rp6.000
+Total pendapatan  : Rp66.000
+Riwayat (stack)   : 1/5
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Terima kasih. Program selesai.

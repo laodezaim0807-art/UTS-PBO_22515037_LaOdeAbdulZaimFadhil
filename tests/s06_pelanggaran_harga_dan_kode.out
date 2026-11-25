@@ -1,0 +1,96 @@
+=== Sistem Manajemen Warung Kendari ===
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Tambah menu --
+Kode menu   : Nama menu   : Harga       : Stok        : [ERROR] Harga menu harus lebih dari 0.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Tambah menu --
+Kode menu   : Nama menu   : Harga       : Stok        : Menu Kopi berhasil ditambahkan.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Tambah menu --
+Kode menu   : Nama menu   : Harga       : Stok        : [ERROR] Kode menu K01 sudah dipakai.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Tambah menu --
+Kode menu   : Nama menu   : Harga       : Stok        : [ERROR] Stok menu tidak boleh negatif.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Daftar menu --
+K01    | Kopi                   | Rp12.000   | stok 5   | Tersedia
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Terima kasih. Program selesai.

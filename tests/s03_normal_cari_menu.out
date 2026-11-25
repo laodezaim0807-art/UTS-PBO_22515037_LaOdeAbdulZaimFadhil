@@ -1,0 +1,69 @@
+=== Sistem Manajemen Warung Kendari ===
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Data contoh dimuat: 5 menu dan 3 pelanggan.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Cari data --
+1. Menu (kode atau nama)
+2. Pelanggan (ID atau nama)
+3. Pesanan (kode)
+Pilih: Kata kunci: M02    | Ayam Bakar             | Rp30.000   | stok 8   | Tersedia
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Cari data --
+1. Menu (kode atau nama)
+2. Pelanggan (ID atau nama)
+3. Pesanan (kode)
+Pilih: Kata kunci: P02    | Sari Wulandari     | 082198765432   | belanja Rp0         | Non-member
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Terima kasih. Program selesai.

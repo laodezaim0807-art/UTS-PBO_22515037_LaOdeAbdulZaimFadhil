@@ -1,0 +1,65 @@
+=== Sistem Manajemen Warung Kendari ===
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Data contoh dimuat: 5 menu dan 3 pelanggan.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Buat pesanan --
+ID pelanggan : Pelanggan: Ahmad Rizky
+Masukkan kode menu satu per satu. Ketik SELESAI untuk menyimpan.
+Kode menu    : [ERROR] Pesanan harus memuat minimal 1 menu.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Daftar pesanan --
+(belum ada pesanan)
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Terima kasih. Program selesai.

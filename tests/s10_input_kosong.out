@@ -1,0 +1,51 @@
+=== Sistem Manajemen Warung Kendari ===
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Tambah pelanggan --
+ID pelanggan : [ERROR] Input tidak boleh kosong.
+ID pelanggan : Nama         : [ERROR] Input tidak boleh kosong.
+Nama         : No. telepon  : [ERROR] Nomor telepon harus 8 sampai 15 digit angka.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: [ERROR] Input harus berupa bilangan bulat.
+Pilih menu: -- Daftar pelanggan --
+(belum ada pelanggan)
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Terima kasih. Program selesai.

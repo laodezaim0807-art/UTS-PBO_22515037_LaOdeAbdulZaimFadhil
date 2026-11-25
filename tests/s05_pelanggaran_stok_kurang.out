@@ -1,0 +1,78 @@
+=== Sistem Manajemen Warung Kendari ===
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Data contoh dimuat: 5 menu dan 3 pelanggan.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Buat pesanan --
+ID pelanggan : Pelanggan: Sari Wulandari
+Masukkan kode menu satu per satu. Ketik SELESAI untuk menyimpan.
+Kode menu    : Jumlah       : [ERROR] Stok Jus Alpukat tidak cukup (tersisa 2, diminta 3).
+Kode menu    : Jumlah       :   + 2 Jus Alpukat ditambahkan.
+Kode menu    : Pesanan berhasil disimpan.
+Kode      : PSN-001
+Pelanggan : Sari Wulandari (P02)
+Status    : DIPROSES
+  Jus Alpukat             2 x Rp15.000   = Rp30.000
+Subtotal  : Rp30.000
+Pajak 10% : Rp3.000
+Total     : Rp33.000
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Daftar menu --
+M01    | Nasi Goreng Spesial    | Rp25.000   | stok 10  | Tersedia
+M02    | Ayam Bakar             | Rp30.000   | stok 8   | Tersedia
+M03    | Sup Ikan Kuah Kuning   | Rp28.000   | stok 6   | Tersedia
+M04    | Es Teh Manis           | Rp5.000    | stok 30  | Tersedia
+M05    | Jus Alpukat            | Rp15.000   | stok 0   | Habis
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Terima kasih. Program selesai.

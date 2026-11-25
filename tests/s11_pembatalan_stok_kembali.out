@@ -1,0 +1,155 @@
+=== Sistem Manajemen Warung Kendari ===
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Data contoh dimuat: 5 menu dan 3 pelanggan.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Buat pesanan --
+ID pelanggan : Pelanggan: Ahmad Rizky
+Masukkan kode menu satu per satu. Ketik SELESAI untuk menyimpan.
+Kode menu    : Jumlah       :   + 2 Nasi Goreng Spesial ditambahkan.
+Kode menu    : Jumlah       :   + 1 Ayam Bakar ditambahkan.
+Kode menu    : Pesanan berhasil disimpan.
+Kode      : PSN-001
+Pelanggan : Ahmad Rizky (P01)
+Status    : DIPROSES
+  Nasi Goreng Spesial     2 x Rp25.000   = Rp50.000
+  Ayam Bakar              1 x Rp30.000   = Rp30.000
+Subtotal  : Rp80.000
+Pajak 10% : Rp8.000
+Total     : Rp88.000
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Riwayat pesanan (Stack) --
+1. Batalkan pesanan terakhir (pop)
+2. Lihat pesanan terakhir (peek)
+3. Tampilkan isi riwayat
+4. Status stack (size, isEmpty, isFull)
+5. Konfirmasi riwayat (kosongkan stack)
+Pilih: [TOP] 1. PSN-001 | Ahmad Rizky | total Rp88.000
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Riwayat pesanan (Stack) --
+1. Batalkan pesanan terakhir (pop)
+2. Lihat pesanan terakhir (peek)
+3. Tampilkan isi riwayat
+4. Status stack (size, isEmpty, isFull)
+5. Konfirmasi riwayat (kosongkan stack)
+Pilih: Pesanan PSN-001 dibatalkan. Stok dan total belanja dikembalikan.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Daftar menu --
+M01    | Nasi Goreng Spesial    | Rp25.000   | stok 10  | Tersedia
+M02    | Ayam Bakar             | Rp30.000   | stok 8   | Tersedia
+M03    | Sup Ikan Kuah Kuning   | Rp28.000   | stok 6   | Tersedia
+M04    | Es Teh Manis           | Rp5.000    | stok 30  | Tersedia
+M05    | Jus Alpukat            | Rp15.000   | stok 2   | Tersedia
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Daftar pelanggan --
+P01    | Ahmad Rizky        | 081234567890   | belanja Rp0         | Non-member
+P02    | Sari Wulandari     | 082198765432   | belanja Rp0         | Non-member
+P03    | Laode Hasan        | 085311122233   | belanja Rp0         | Non-member
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Daftar pesanan --
+(belum ada pesanan)
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Terima kasih. Program selesai.

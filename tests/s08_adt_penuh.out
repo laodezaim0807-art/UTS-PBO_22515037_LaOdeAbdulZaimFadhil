@@ -1,0 +1,275 @@
+=== Sistem Manajemen Warung Kendari ===
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Data contoh dimuat: 5 menu dan 3 pelanggan.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Buat pesanan --
+ID pelanggan : Pelanggan: Ahmad Rizky
+Masukkan kode menu satu per satu. Ketik SELESAI untuk menyimpan.
+Kode menu    : Jumlah       :   + 1 Es Teh Manis ditambahkan.
+Kode menu    : Pesanan berhasil disimpan.
+Kode      : PSN-001
+Pelanggan : Ahmad Rizky (P01)
+Status    : DIPROSES
+  Es Teh Manis            1 x Rp5.000    = Rp5.000
+Subtotal  : Rp5.000
+Pajak 10% : Rp500
+Total     : Rp5.500
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Buat pesanan --
+ID pelanggan : Pelanggan: Ahmad Rizky
+Masukkan kode menu satu per satu. Ketik SELESAI untuk menyimpan.
+Kode menu    : Jumlah       :   + 1 Es Teh Manis ditambahkan.
+Kode menu    : Pesanan berhasil disimpan.
+Kode      : PSN-002
+Pelanggan : Ahmad Rizky (P01)
+Status    : DIPROSES
+  Es Teh Manis            1 x Rp5.000    = Rp5.000
+Subtotal  : Rp5.000
+Pajak 10% : Rp500
+Total     : Rp5.500
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Buat pesanan --
+ID pelanggan : Pelanggan: Sari Wulandari
+Masukkan kode menu satu per satu. Ketik SELESAI untuk menyimpan.
+Kode menu    : Jumlah       :   + 1 Es Teh Manis ditambahkan.
+Kode menu    : Pesanan berhasil disimpan.
+Kode      : PSN-003
+Pelanggan : Sari Wulandari (P02)
+Status    : DIPROSES
+  Es Teh Manis            1 x Rp5.000    = Rp5.000
+Subtotal  : Rp5.000
+Pajak 10% : Rp500
+Total     : Rp5.500
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Buat pesanan --
+ID pelanggan : Pelanggan: Sari Wulandari
+Masukkan kode menu satu per satu. Ketik SELESAI untuk menyimpan.
+Kode menu    : Jumlah       :   + 1 Es Teh Manis ditambahkan.
+Kode menu    : Pesanan berhasil disimpan.
+Kode      : PSN-004
+Pelanggan : Sari Wulandari (P02)
+Status    : DIPROSES
+  Es Teh Manis            1 x Rp5.000    = Rp5.000
+Subtotal  : Rp5.000
+Pajak 10% : Rp500
+Total     : Rp5.500
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Buat pesanan --
+ID pelanggan : Pelanggan: Laode Hasan
+Masukkan kode menu satu per satu. Ketik SELESAI untuk menyimpan.
+Kode menu    : Jumlah       :   + 1 Es Teh Manis ditambahkan.
+Kode menu    : Pesanan berhasil disimpan.
+Kode      : PSN-005
+Pelanggan : Laode Hasan (P03)
+Status    : DIPROSES
+  Es Teh Manis            1 x Rp5.000    = Rp5.000
+Subtotal  : Rp5.000
+Pajak 10% : Rp500
+Total     : Rp5.500
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Riwayat pesanan (Stack) --
+1. Batalkan pesanan terakhir (pop)
+2. Lihat pesanan terakhir (peek)
+3. Tampilkan isi riwayat
+4. Status stack (size, isEmpty, isFull)
+5. Konfirmasi riwayat (kosongkan stack)
+Pilih: size     : 5 dari 5
+isEmpty  : false
+isFull   : true
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Buat pesanan --
+ID pelanggan : Pelanggan: Laode Hasan
+Masukkan kode menu satu per satu. Ketik SELESAI untuk menyimpan.
+Kode menu    : Jumlah       :   + 1 Es Teh Manis ditambahkan.
+Kode menu    : [ERROR] Riwayat pesanan penuh (5/5). Batalkan pesanan terakhir atau konfirmasi riwayat dahulu.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Riwayat pesanan (Stack) --
+1. Batalkan pesanan terakhir (pop)
+2. Lihat pesanan terakhir (peek)
+3. Tampilkan isi riwayat
+4. Status stack (size, isEmpty, isFull)
+5. Konfirmasi riwayat (kosongkan stack)
+Pilih: Pesanan PSN-005 dibatalkan. Stok dan total belanja dikembalikan.
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Buat pesanan --
+ID pelanggan : Pelanggan: Laode Hasan
+Masukkan kode menu satu per satu. Ketik SELESAI untuk menyimpan.
+Kode menu    : Jumlah       :   + 1 Es Teh Manis ditambahkan.
+Kode menu    : Pesanan berhasil disimpan.
+Kode      : PSN-006
+Pelanggan : Laode Hasan (P03)
+Status    : DIPROSES
+  Es Teh Manis            1 x Rp5.000    = Rp5.000
+Subtotal  : Rp5.000
+Pajak 10% : Rp500
+Total     : Rp5.500
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: -- Riwayat pesanan (Stack) --
+1. Batalkan pesanan terakhir (pop)
+2. Lihat pesanan terakhir (peek)
+3. Tampilkan isi riwayat
+4. Status stack (size, isEmpty, isFull)
+5. Konfirmasi riwayat (kosongkan stack)
+Pilih: [TOP] 5. PSN-006 | Laode Hasan | total Rp5.500
+      4. PSN-004 | Sari Wulandari | total Rp5.500
+      3. PSN-003 | Sari Wulandari | total Rp5.500
+      2. PSN-002 | Ahmad Rizky | total Rp5.500
+      1. PSN-001 | Ahmad Rizky | total Rp5.500
+
+---------- MENU UTAMA ----------
+ 1. Tambah menu
+ 2. Tampilkan semua menu
+ 3. Tambah pelanggan
+ 4. Tampilkan semua pelanggan
+ 5. Buat pesanan
+ 6. Tampilkan semua pesanan
+ 7. Cari data
+ 8. Riwayat pesanan (Stack)
+ 9. Laporan ringkasan
+10. Selesaikan pesanan
+11. Muat data contoh
+ 0. Keluar
+Pilih menu: Terima kasih. Program selesai.
